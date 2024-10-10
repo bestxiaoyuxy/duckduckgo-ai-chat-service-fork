@@ -38,5 +38,5 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "xiaoyu-duckduckgo-78"
-          entrypoint: ""
+          entrypoint: "main.ts"
           root: ""
