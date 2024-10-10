@@ -10,4 +10,3 @@ jobs:
       - uses: denoland/setup-deno@v1
       - run: deno fmt --check **/*.ts
       - run: deno lint
-
