@@ -40,3 +40,4 @@ jobs:
           project: "xiaoyu-duckduckgo-78"
           entrypoint: "main.ts"
           root: ""
+ 
